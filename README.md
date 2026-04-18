@@ -78,7 +78,7 @@
 
 - Flutter (Dart)
 - PostgreSQL (Core Storage)
-- Локализация: русский, английский, таджик
+
 
 ---
 
